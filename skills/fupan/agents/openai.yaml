@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fupan | 复盘"
+  short_description: "Review goals, results, root causes, and verifiable improvements"
+  default_prompt: "Use $fupan to review this task through goals, actual results, positive and negative gaps with root causes, and a verifiable improvement plan. Respond in my requested language."
+
+policy:
+  allow_implicit_invocation: true
